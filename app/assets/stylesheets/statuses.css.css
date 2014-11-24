@@ -1,0 +1,17 @@
+.status {
+  border-bottom: solid 1px #ccc;
+  padding: 5px 0; }
+
+.status p {
+  margin: 4px 0 !important; }
+
+.status.hover {
+  background: #f4f4f4; }
+
+.status .admin {
+  display: none; }
+
+.status.hover .admin {
+  display: inline; }
+
+/*# sourceMappingURL=statuses.css.css.map */
